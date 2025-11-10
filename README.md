@@ -1,35 +1,37 @@
-# Data Scientist
+# R&D Engineer specialized in III-V UWBG Semiconductors 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: MOCVD, ALD, PECVD, PVD, Photolithography, SPC, DOE, JMP, Minitab
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education								       		
+- M.S., Electrical Engineering	| The University of South Carolina 	 			        		
+- B.S., Chemistry | Lahore University of Managment Sciences 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Process Engineer Co-op, Kyma Technologies Inc, NC, USA (_January 2025 - Present_)**
+- Contributed to the NC State led CLAWS Microelectronics Commons Hub’s “Advanced Power Switches Using UWBG Gallium Oxide” project (Kyma‑led; $3.52M first‑year, est. $11.4M total), delivering >20 β‑Ga₂O₃ epi wafers and >10 
+composite substrates into the hub’s research‑foundry pipeline for 10 kV‑class diode/transistor development. 
+- Scaled rapid epitaxy workflows (HVPE) to support APEX manufacturing objectives, increasing wafer‑throughput by 1.5× and cutting cycle time per lot by 30% while meeting thickness and composition specs for AlGaN/UWBG films.
+- Collaborated with device engineers to transition epitaxial materials into wafer-level device processing, supporting integration handoff from material growth to fabrication and aligning electrical test metrics with process parameters for metal contact, passivation, and packaging development. 
+- Collaborated with DOE, AFRL, and DOD-funded programs on β-Ga₂O₃ material development, contributing experimental data that supported 3+ federal technical reports. 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Design Engineer Intern, Aql Tech, Islamabad, Pakistan (_January 2021 - January 2022)**
+- Designed and verified RISC-V processor IP cores for AI, achieving 30% faster synthesis and better power efficiency. 
+- Built RTL-to-GDS design flows with physical constraints and timing closure to strengthen device-level performance.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Academic Reserach Experience
+**University of South Carolina – Columbia, SC, USA (_July 2022 - August 2025_)**
+- Optimized deep‑UV β‑Ga₂O₃/4H‑SiC diodes for enhanced responsivity, breakdown voltage, and thermal stability by tuning growth conditions and implementing Si co‑doping schemes. Managed concurrent collaborations across materials and device teams, strengthening project coordination, time management, and cross‑disciplinary 
+communication. 
+- Investigated dielectric-semiconductor interfaces and back-end compatibility for oxide/III-V heterostructures, improving interface quality for high-frequency devices 
+- Investigated interface and defect dynamics in MOCVD‑grown (Al₁₋ₓGaₓ)₂O₃ thin films and GaN/AlGaN HFET structures using SKPM, C–V profiling, and electrical characterization to advance dielectric integration for next‑generation power electronics. 
+- Published in AIP Advances (2024) and presented at IEEE MDTS (2025) and GOX (2025). Co‑inventor on USC Patent ID 1771: Indium/silicon delta co‑doped β‑Ga₂O₃ for enhanced device performance. Recognized for academic service as a Discover USC 2024 poster reviewer. 
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**National Science Foundation (_June 2024 - December 2024)**
+- Secured $50K I‑Corps grant and spearheaded national‑level customer discovery across 2024 industry conferences to validate market needs for novel wide‑bandgap device architectures.  
+- Analyzed adoption barriers in the power electronics sector and transformed insights into product design pivots and a data‑driven commercialization roadmap, bridging academic innovation to market application. 
+- Applied for an SBIR/STTR grant, established a startup to commercialize the developed technology, and filed a patent 
+for gallium‑oxide‑based deep‑UV detectors derived from the research findings. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
